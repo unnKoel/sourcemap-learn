@@ -1,0 +1,2 @@
+var User=function(a,b){this.username=a;this.password=b};User.prototype.check=function(a,b){return this.username!=a?{result:!1,message:"username is not match"}:this.password!=b?{result:!1,message:"password is not match"}:{result:!0,message:"congratulations! you have through the check"}};var user=new User("bingo","tidy");function login(a,b){var c=user.check(a,b);alert(c.message)}login("bindo","tidy");login("bingo","tity");login("bingo","tidy");
+//# sourceMappingURL=t1-closure.js.map

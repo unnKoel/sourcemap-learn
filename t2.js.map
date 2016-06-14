@@ -1,0 +1,1 @@
+{"version":3,"sources":["t2.js"],"names":["login","username","password","result","user","check","alert","message","User"],"mappings":"AAMA,QAASA,OAAMC,EAAUC,GACrB,GAAIC,GAASC,KAAKC,MAAMJ,EAAUC,EAClCI,OAAMH,EAAOI,SAJjB,GAAIH,MAAO,GAAII,MAAK,QAAS,OAO7BR,OAAM,QAAS,QACfA,MAAM,QAAS,QACfA,MAAM,QAAS","file":"t2.mini.js","sourceRoot":"./"}

@@ -1,0 +1,2 @@
+var User=function(s,e){this.username=s,this.password=e};User.prototype.check=function(s,e){return this.username!=s?{result:!1,message:"username is not match"}:this.password!=e?{result:!1,message:"password is not match"}:{result:!0,message:"congratulations! you have through the check"}};
+//# sourceMappingURL=t1.js.map

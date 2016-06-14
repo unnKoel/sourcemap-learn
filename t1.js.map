@@ -1,0 +1,1 @@
+{"version":3,"sources":["t1.js"],"names":["User","username","password","this","prototype","check","result","message"],"mappings":"AAGA,GAAIA,MAAO,SAAUC,EAAUC,GAC3BC,KAAKF,SAAWA,EAChBE,KAAKD,SAAWA,EAGpBF,MAAKI,UAAUC,MAAQ,SAAUJ,EAAUC,GACvC,MAAIC,MAAKF,UAAYA,GAEbK,QAAU,EACVC,QAAW,yBAERJ,KAAKD,UAAYA,GAEpBI,QAAU,EACVC,QAAW,0BAKfD,QAAU,EACVC,QAAW","file":"t1.mini.js","sourceRoot":"./"}
